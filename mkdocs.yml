@@ -1,0 +1,7 @@
+site_name: Documentação de Thiago
+site_author: Site de Thiago
+site_dir: /var/www/docs
+
+theme:
+  name: material
+  language: pt
